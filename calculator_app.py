@@ -4,9 +4,9 @@
 #| December 6, 2024                                                          |#
 #|---------------------------------------------------------------------------|#
 #| A simple four-function calculator implementated using Python's Tkinter    |#
-#| package.                                                                  |#
+#| package. There are bound to be bugs, but all functions should work as     |#
+#| expected.                                                                 |#
 #+===========================================================================+#
-
 import numpy as np
 import tkinter as tk
 from tkinter import StringVar
