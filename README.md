@@ -18,3 +18,12 @@ A simple four-function calculator implementated using Python's Tkinter package. 
 ---
 
 To run, simply execute calculator_app.py with Python. The latest version is preferred, but just about any should suffice.
+
+---
+
+The following web resources were referenced throughout the creation of this program:
+
+- https://www.geeksforgeeks.org/python-simple-gui-calculator-using-tkinter/
+- https://www.pythontutorial.net/tkinter/
+
+Additional citations can be found preceding line(s) in which code snippets from the internet were used. No AI tools were utilized in the development of this program.
